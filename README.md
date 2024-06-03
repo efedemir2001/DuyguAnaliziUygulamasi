@@ -1,6 +1,6 @@
 Uygulama nasıl çalışır?
 Öncelikle Projeyi Zip Olarak İndirmelisiniz 
-Daha sonra indirdiğiniz zip dosyasını masaüstüne çıkartın. Bu işlemi doğru yaptığınızda masaüstünüzde P2_EfeDemir_1904040026 isminde bir klasör olduğunu göreceksiniz
+Daha sonra indirdiğiniz zip dosyasının içindeki P2_EfeDemir_1904040026 klasörünü masaüstüne çıkartın. Bu işlemi doğru yaptığınızda masaüstünüzde P2_EfeDemir_1904040026 isminde bir klasör olduğunu göreceksiniz
 Windows arama çubuğuna CMD yazıp entera basarak bilgisayarınızın komut satırını açınız
 cd Desktop komutunu yazdıktan sonra entera basınız bu sayede masaüstüne gideceksiniz 
 Daha sonra cd P2_EfeDemir_1904040026 yazıp entera basın bu sayede proje klasörünün içine girmiş olacaksınız
